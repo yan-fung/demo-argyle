@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewsletterSignup component renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="subscription-container"
+  >
+    <div>
+       Stay up-to-date with
+    </div>
+    <p>
+      News, updates, promos, and exclusives from 
+      <span
+        class="noted"
+      >
+        Argyle.
+      </span>
+    </p>
+    <div
+      class="subscription-form"
+    >
+      <form
+        class="form"
+      >
+        <label
+          class="label"
+        >
+          <input
+            class="input"
+            placeholder="Enter your email"
+            type="email"
+          />
+        </label>
+        <button
+          class="button"
+          type="submit"
+        >
+          Subscribe
+        </button>
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;
