@@ -16,7 +16,7 @@ const Reviews = () => {
            </div>
           <div className="name">Anonymous</div>
           </div>
-          <p className="body">The online learning platform provides educational resources and tools for remote learning. It enables users to access courses, lectures, and educational content from anywhere with an internet connection.</p>
+          <p className="body">The classes are very well prepared and organised. All the teachers are very friendly and knowledgeable. All topics are broken down into small pieces and taught step-by-step.</p>
         </div>
       </div>
       <div className="item">
