@@ -1,0 +1,17 @@
+@mixin button ($textColor: $grey-color, $backgroundColor:$second-color) {
+  display: inline-block;
+  width: 200px;
+  height: 44px;
+  font-size: 20px;
+  border-color: rgba(255, 255, 255, 0.776);
+  border-radius: 5px;
+  background-color: $backgroundColor;
+  color: $textColor;
+  cursor: pointer;
+  transition: all 400ms ease;
+
+  &:hover {
+    background: lighten($backgroundColor, 5%);
+    color: $navy-color;
+  }
+}

@@ -1,0 +1,30 @@
+@import "./_main";
+
+.review-content {
+  background-color: $grey-color;
+  color: $primary-color;
+  height: 50vh;
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center;
+
+  .item {
+    background-color:#f4f4f6;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    width: 300px;
+    height: 200px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin: 10px;
+    font-family: 'Rubik', sans-serif;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .review-content {
+    flex-direction:column;
+    height: 100vh;
+  }    
+}
