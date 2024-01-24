@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demo-argyle/static/css/main.086eea34.css",
+    "main.js": "/demo-argyle/static/js/main.d81a8783.js",
+    "index.html": "/demo-argyle/index.html",
+    "main.086eea34.css.map": "/demo-argyle/static/css/main.086eea34.css.map",
+    "main.d81a8783.js.map": "/demo-argyle/static/js/main.d81a8783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086eea34.css",
+    "static/js/main.d81a8783.js"
+  ]
+}
