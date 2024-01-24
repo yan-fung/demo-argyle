@@ -1,5 +1,4 @@
 import "../styles/reviews.scss";
-import "../styles/reviewsCards.scss";
 
 const Reviews = () => {
 
